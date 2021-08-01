@@ -8,9 +8,9 @@ File 25-30.txt containts 500 DTNUs. Each DTNUs has between 25 to 30 controllable
 
 Each DTNU is written as:
 
--Set of controllables: A list which contains the ID of each controllable timepoint
+-Set of controllables: A list which contains the ID of each controllable timepoint.
 
--Set of uncontrollables: A list which contains the ID of each unontrollable timepoint
+-Set of uncontrollables: A list which contains the ID of each unontrollable timepoint.
 
 -Set of free constraints: A list which contains 'disjuncts' (i.e. A disjunct refers to several contraints linked with OR operators). A disjunct is a list which contains several 'conjuncts'. 
 A conjunct is a list of the form: 
