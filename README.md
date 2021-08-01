@@ -1,7 +1,9 @@
 # dtnu-benchmarks
 
-File 10-20.txt containts 500 DTNUs. Each DTNUs has between 10 to 20 controllables and 1 to 3 uncontrollables. \n
+File 10-20.txt containts 500 DTNUs. Each DTNUs has between 10 to 20 controllables and 1 to 3 uncontrollables.
+
 File 20-25.txt containts 500 DTNUs. Each DTNUs has between 20 to 25 controllables and 1 to 3 uncontrollables.
+
 File 25-30.txt containts 500 DTNUs. Each DTNUs has between 25 to 30 controllables and 1 to 3 uncontrollables.
 
 Each DTNU is written as:
